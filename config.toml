@@ -1,8 +1,8 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
-title = "Hugo Theme MemE"
+baseURL = "https://staff-engineer.github.io/" # TODO: Replace with the custom domain once bought
+title = "Staff Engineer Blog"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -25,7 +25,7 @@ pluralizeListTitles = false
 summaryLength = 42
 
 # Enable Emoji emoticons support?
-enableEmoji = false
+enableEmoji = true
 
 # Text to display for footnote return links
 footnoteReturnLinkContents = "↩"
@@ -98,17 +98,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "Kamil Pietruszka & Jakub Nowak"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "todo@gmail.com"
     # Motto or introduction
-    motto = "Viva La Vida"
+    motto = "Reflections on software engineering career"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = "https://staff-engineer.github.io/"
     # Twitter
-    twitter = "reuixiy"
+    twitter = "Crossy147"
 
 # Related content
 [related]
@@ -211,7 +211,7 @@ uglyURLs = false
     #     post = "home"
     [[menu.main]]
         pageref = "/posts/"
-        name = "Posts"
+        name = "Blog"
         weight = 2
         pre = "internal"
         post = "archive"
@@ -236,9 +236,9 @@ uglyURLs = false
     [[menu.main]]
         weight = 6
         identifier = "theme-switcher"
-    [[menu.main]]
-        weight = 7
-        identifier = "lang-switcher"
+    #[[menu.main]]
+    #    weight = 7
+    #    identifier = "lang-switcher"
     [[menu.main]]
         weight = 8
         identifier = "search"
@@ -353,15 +353,15 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "Reflections on software engineering careers"
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2022-11-27T20:00:00+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = "todo"
     # Note: used for Twitter Cards
 
 
@@ -407,7 +407,7 @@ uglyURLs = false
     # Categories Page
 
     # Enable tree structure layout?
-    enableTree = true
+    enableTree = false
     # ATTENTION: This option cannot be
     #            disabled if you set
     #            `categoryBy` to `sections`
@@ -457,7 +457,7 @@ uglyURLs = false
     groupByMonth = true
 
     # Enable Chinese zodiac?
-    chineseZodiac = true
+    chineseZodiac = false
 
     # Translate the year? (valid for title)
     i18nYear = false
@@ -1128,7 +1128,7 @@ uglyURLs = false
     ######################################
     # Post Copyright
 
-    enablePostCopyright = true
+    enablePostCopyright = false
 
     displayPostCopyright = true
     # Note: *global settings*
@@ -1139,7 +1139,7 @@ uglyURLs = false
     ######################################
     # Post Updated Badge
 
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
     displayUpdatedBadge = true
     # Note: *global settings*
@@ -1297,7 +1297,7 @@ uglyURLs = false
     iconAnimation = true
 
     # Display links to Hugo and MemE?
-    displayPoweredBy = true
+    displayPoweredBy = false
 
     displaySiteCopyright = true
 

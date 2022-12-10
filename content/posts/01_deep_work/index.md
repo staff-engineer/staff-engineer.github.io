@@ -80,7 +80,7 @@ The following principles can help you get started and establish your deep workin
 We designed our own deep work routines with the principles mentioned above. They do differ a bit from each other but are suitable exactly 
 for our own needs.
 
-### Jakub
+### Jakub's routine
 ![Example calendar from Jakub](./calendar_jakub.png)
 
 - My peak performance and concentration are in the mornings between 5 am and 12 pm. That’s when I schedule my deep work sessions.
@@ -91,7 +91,7 @@ work, I turn on slack, email, etc.
 - I plan a day (or a couple of days) of work & life ahead of time. I need to know what will be my deep work focus before I start it. I 
 simply use Google Calendar for it.
 
-### Kamil
+### Kamil's routine
 ![Example calendar from Kamil](./calendar_kamil.png)
 
 My goal was easily describable - `I wanted to limit the context switching and reserve time for the deep focus`. As a side effect, I expected 

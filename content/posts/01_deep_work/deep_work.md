@@ -12,7 +12,7 @@ How can you stay on top of your work, help your team and have a healthy work-lif
 One solution to this challenge is a work methodology called **deep work**.
 
 # What is deep work?
-![Deep Work - book cover](../../resources/_gen/images/01_deep_work/deep_work.jpeg)
+![Deep Work - book cover](./deep_work.jpeg)
 
 The term "deep work" was popularized by Cal Newport in a book 
 [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/).
@@ -81,7 +81,7 @@ We designed our own deep work routines with the principles mentioned above. They
 for our own needs.
 
 ### Jakub
-![Example calendar from Jakub](../../resources/_gen/images/01_deep_work/calendar_jakub.png)
+![Example calendar from Jakub](./calendar_jakub.png)
 
 - My peak performance and concentration are in the mornings between 5 am and 12 pm. That’s when I schedule my deep work sessions.
 - My deep work sessions last usually between 1-2 hours. Sometimes during focus, I put on noise-canceling headphones and listen to music. 
@@ -92,7 +92,7 @@ work, I turn on slack, email, etc.
 simply use Google Calendar for it.
 
 ### Kamil
-![Example calendar from Kamil](../../resources/_gen/images/01_deep_work/calendar_kamil.png)
+![Example calendar from Kamil](./calendar_kamil.png)
 
 My goal was easily describable - `I wanted to limit the context switching and reserve time for the deep focus`. As a side effect, I expected 
 to limit the `meeting gaps time`. 

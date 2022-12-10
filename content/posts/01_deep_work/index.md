@@ -12,7 +12,7 @@ How can you stay on top of your work, help your team and have a healthy work-lif
 One solution to this challenge is a work methodology called **deep work**.
 
 # What is deep work?
-![Deep Work - book cover](./deep_work.jpeg)
+![Deep Work - book cover](./deep_work.png)
 
 The term "deep work" was popularized by Cal Newport in a book 
 [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/).

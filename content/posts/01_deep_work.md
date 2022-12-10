@@ -5,10 +5,10 @@ draft: true
 ---
 
 Transitioning into leadership comes with one obvious trait. You have more things to do in a smaller amount of time. 
-Your individual work becomes more complex, less defined and require from you a lot of foucs. 
-Yet, you also have more meetings and more emails or messages to respond. 
+Your individual work becomes more complex, less defined, and requires from you a lot of focus. 
+Yet, you also have more meetings and more emails or messages to respond to. 
 
-How can you stay on top of your work, help your team and have a healthy work life balance at the same time? 
+How can you stay on top of your work, help your team and have a healthy work-life balance at the same time? 
 The solution is a work methodology called **deep work**.
 
 # What is deep work?
@@ -16,18 +16,18 @@ The solution is a work methodology called **deep work**.
 
 The term "deep work" was popularized by Cal Newport in a book 
 [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/).
-It might sound fancy, but it's meaning is very simple. I'm sure most of you have experienced it in the past, even if you don't know it. 
+It might sound fancy, but its meaning is very simple. I'm sure most of you have experienced it in the past, even if you don't know it. 
 Simply put, deep work is the ability to concentrate deeply on a difficult problem to get it done efficiently. 
 
 Cal Newport suggests the following, simplified equation for work:
 ```
 Work Accomplished = Time Spent x Intensity
 ``` 
-It makes a lot of sense. The more intense your focus will be, the higher level of concentration, the better results you will yield in the 
+It makes a lot of sense. The more intense your focus will be, the higher your level of concentration - the better results you will yield in the 
 same amount of time. The trick is to keep this high level of focus and concentration for a prolonged amount of time. 
 Consistently and repetitively - every day, every week.
 
-In this article we'll cover how a little theory behind deep work and also share some of our personal experience with it.
+In this article, we'll cover how a little theory behind deep work and also share some of our personal experiences with it.
 
 ## Deep vs shallow work
 
@@ -42,16 +42,16 @@ _Examples of deep work: implementing a new feature, writing a thoughtful documen
 > Non-cognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend not to create much new value in 
 > the world and are easy to replicate.
 
-_Examples of shallow work: reading Slack, passively attending meetings, filling out forms._
+_Examples of shallow work: reading Slack, passively attending meetings, and filling out forms._
 
-In general, work classified as _deep_, requires more cognitive effort from us than the shallow one. One could ask, if a meeting can be a 
-deep work? I believe it can be. It all depends what you do during the meeting. If you're solving a particularily hard problem toghether and 
-discussing important matters, then sure it is. On the other thing, if you're participating some meetings just beacuse "you have to" and 
+In general, work classified as _deep_ requires more cognitive effort from us than a shallow one. One could ask if a meeting can be classified as
+deep work. I believe it can be. It all depends on what you do during the meeting. If you're solving a particularly hard problem together and 
+discussing important matters, then surely it is. On the other thing, if you're participating in some meetings just because "you have to" and 
 don't necessarily bring or add value to it, then rather not.
 
 # Benefits of deep work
 
-Deep work can affect positivly both personal and work life. It can bring value in many different aspects. 
+Deep work can affect positively both your personal and work life. It can bring value in many different aspects. 
 We believe the following are the most important:
 
 1. **Increased focus and concentration.** By its definition, deep work is a state of distraction-free increased concentration. By practicing
@@ -65,7 +65,7 @@ positively impact your work-life balance.
 # Getting started
 
 Doing deep work is hard and requires a lot of effort, especially at the beginning. But its effects on work quality and life satisfaction can
-be amazing. Approch it with agile and flexible mindset. Every one of us is different and other things work better for us. Don't strive to 
+be amazing. Approach it with an agile and flexible mindset. Every one of us is different and other things work better for us. Don't strive to 
 perfectly copy routines others are practicing. Rather treat them as inspiration to create your own, bespoke practice.
 
 The following principles can help you get started and establish your deep working routine:
@@ -77,7 +77,7 @@ The following principles can help you get started and establish your deep workin
 
 # Our experiences with deep work
 
-We designed our deep work routines with the principles mentioned above. They do differ a bit between each other, but are suitable excatly 
+We designed our own deep work routines with the principles mentioned above. They do differ a bit from each other but are suitable exactly 
 for our own needs.
 
 ### Jakub
@@ -87,31 +87,31 @@ for our own needs.
 - My deep work sessions last usually between 1-2 hours. Sometimes during focus, I put on noise-canceling headphones and listen to music. 
 Between sessions, I try to relax by doing a little stretching or playing with a dog. I try to defocus my brain completely from the cognitive effort.
 - I **always** have all notifications turned off. The only exception is a phone call (in case of an emergency). When doing some shallow 
-work, I turn on slack, email etc.
+work, I turn on slack, email, etc.
 - I plan a day (or a couple of days) of work & life ahead of time. I need to know what will be my deep work focus before I start it. I 
 simply use Google Calendar for it.
 
 ### Kamil
 ![Example calendar from Kamil](../../resources/_gen/images/01_deep_work/calendar_kamil.png)
 
-My goal was easily describable - `I wanted to limit the context switching and reserve time for the deep focus` . As a side effect I expected 
+My goal was easily describable - `I wanted to limit the context switching and reserve time for the deep focus`. As a side effect, I expected 
 to limit the `meeting gaps time`. 
 
-> How could I still attend sync calls with highest impact, while still being able to focus on individual contribution.
+> How could I still attend sync calls with the highest impact, while still being able to focus on individual contribution?
 
 I was in quite good position, as most of my meetings were 1:1s
 **What I did:**
-- Dropped from the meetings on which my attendence had little impact
+- Dropped from the meetings on which my attendance had little impact
 - Minimise time in big meetings 3+ guests in favor of 1:1, as the conversation pattern is more natural
 - Stacked the meetings into bigger slots, to avoid gaps
 - Picked a dedicated day (Friday) for async communication only, for the most demanding tasks
-- Whenever I’ve got a demanding task that fits nicely into the ~6hours of work, I plan it upfront for Friday.
+- Whenever I’ve got a demanding task that fits nicely into the ~6 hours of work, I plan it upfront for Friday.
 
 # Summary
 
-Producing new value, solving complex problems, learning new concepts - those are things, which usually require a lot of focus and effort 
-from us. They are also very important, in becoming succesful at work. Don't let distractions take control over your life or diminish your 
-output. Try aout deep work strategies and improve your productivity. Own your time and start planning work ahead. 
+Producing new value, solving complex problems, and learning new concepts - are things, which usually require a lot of focus and effort 
+from us. They are also very important, in becoming successful at work. Don't let distractions take control over your life or diminish your 
+output. Try out deep work strategies and improve your productivity. Own your time and start planning work ahead. 
 
 If you would like to learn more about deep work, please check the references linked below. You can find more details about the concepts we 
 described in the articles and Newport's book. If you would like to take the learnings even further, we strongly recommend the article 

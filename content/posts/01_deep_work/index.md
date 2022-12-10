@@ -2,6 +2,9 @@
 title: "Deep work, what it’s all about and how to approach it"
 date: 2022-11-28
 draft: true
+tags: [
+    "productivity",
+]
 ---
 
 Transitioning into leadership often brings with it the challenge of managing a higher workload with limited time. You have more things to 

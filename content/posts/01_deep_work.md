@@ -4,12 +4,12 @@ date: 2022-11-28
 draft: true
 ---
 
-Transitioning into leadership comes with one obvious trait. You have more things to do in a smaller amount of time. 
-Your individual work becomes more complex, less defined, and requires from you a lot of focus. 
+Transitioning into leadership often brings with it the challenge of managing a higher workload with limited time. You have more things to 
+do in a smaller amount of time. Your individual work becomes more complex, less defined, and requires from you a lot of focus. 
 Yet, you also have more meetings and more emails or messages to respond to. 
 
 How can you stay on top of your work, help your team and have a healthy work-life balance at the same time? 
-The solution is a work methodology called **deep work**.
+One solution to this challenge is a work methodology called **deep work**.
 
 # What is deep work?
 ![Deep Work - book cover](../../resources/_gen/images/01_deep_work/deep_work.jpeg)
@@ -44,10 +44,10 @@ _Examples of deep work: implementing a new feature, writing a thoughtful documen
 
 _Examples of shallow work: reading Slack, passively attending meetings, and filling out forms._
 
-In general, work classified as _deep_ requires more cognitive effort from us than a shallow one. One could ask if a meeting can be classified as
-deep work. I believe it can be. It all depends on what you do during the meeting. If you're solving a particularly hard problem together and 
-discussing important matters, then surely it is. On the other thing, if you're participating in some meetings just because "you have to" and 
-don't necessarily bring or add value to it, then rather not.
+In general, work classified as _deep_ requires more cognitive effort from us than a shallow one. One might wonder whether a meeting can be 
+classified as deep work. I believe it can be. It all depends on what you do during the meeting. If you're solving a particularly hard 
+problem together and discussing important matters, then surely it is. On the other thing, if you're participating in some meetings just 
+because "you have to" and don't necessarily bring or add value to it, then rather not.
 
 # Benefits of deep work
 
@@ -65,7 +65,7 @@ positively impact your work-life balance.
 # Getting started
 
 Doing deep work is hard and requires a lot of effort, especially at the beginning. But its effects on work quality and life satisfaction can
-be amazing. Approach it with an agile and flexible mindset. Every one of us is different and other things work better for us. Don't strive to 
+be amazing. Approach deep work with an agile and flexible mindset. Every one of us is different and other things work better for us. Don't strive to 
 perfectly copy routines others are practicing. Rather treat them as inspiration to create your own, bespoke practice.
 
 The following principles can help you get started and establish your deep working routine:

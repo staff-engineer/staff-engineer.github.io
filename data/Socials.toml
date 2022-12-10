@@ -1,13 +1,6 @@
-#[[socials]]
-#    id = "rss"
-#    url = "/rss.xml"
-#    icon = "rss"
-#    title = "RSS"
-#    weight = 1
-
 [[socials]]
     id = "email"
-    url = "mailto:kamilos147@gmail.com" #TODO
+    url = "mailto:kamilos147@gmail.com" # TODO: Replace with the custom domain once bought
     icon = "envelope"
     title = "Email"
     weight = 2
@@ -21,14 +14,7 @@
 
 [[socials]]
     id = "twitter"
-    url = "https://twitter.com/Crossy147"
+    url = "https://twitter.com/Crossy147" # TODO: Replace with the custom domain once bought
     icon = "twitter"
     title = "Twitter"
     weight = 4
-
-#[[socials]]
-#    id = "telegram"
-#    url = "https://t.me/yixiuer"
-#    icon = "telegram"
-#    title = "Telegram"
-#    weight = 5

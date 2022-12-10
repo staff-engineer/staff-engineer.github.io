@@ -2,6 +2,10 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo,visualstudiocode
 
 ### Hugo ###
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 
 # Executable may be added to repository
 hugo.exe

@@ -13,9 +13,7 @@ Product-minded engineer, prior to joining Superside, engineering tech lead ownin
 Theoretical Computer Science alumni, with a background in mathematics and algorithms. Functional programming and strongly-typed languages enthusiast with heavy expertise in Scala language. Pragmatic TDD practitioner, effective async communication evangelist.
 
 ## Jakub
-<img style="float: left; width: 250px; margin: 25px;" src="./jakub.png">
-
-<!-- ![Jakub alt <](./jakub.png) -->
+<img class="about-profile" src="./jakub.png">
 
 I am a product-minded engineer. I have a strong background in theoretical computer science and mathematics. 
 
@@ -25,6 +23,6 @@ During my career, I served in multiple roles in the software development life cy
 
 I value honesty, transparency, and candid feedback. I bring a growth and collaboration mindset and help team members to perform at their best.
 
-<a href="https://www.linkedin.com/in/jakub-nowak-0909329b"> <i class="fab fa-linkedin-in"></i></a>
-<a href="https://github.com/j-nowak"> <i class="fab fa-github"></i></a>
-<a href="mailto:pl.jakub.nowak@gmail.com"> <i class="fa fa-envelope"></i></a>
+<a href="https://github.com/j-nowak"> <i class="about-fa-icon fab fa-github"></i>GitHub</a> | 
+<a href="https://www.linkedin.com/in/jakub-nowak-0909329b"> <i class="about-fa-icon fab fa-linkedin-in"></i>LinkedIn</a> | 
+<a href="mailto:pl.jakub.nowak@gmail.com"> <i class="about-fa-icon fa fa-envelope"></i>Email</a>

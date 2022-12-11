@@ -15,13 +15,14 @@ Theoretical Computer Science alumni, with a background in mathematics and algori
 ## Jakub
 <img class="about-profile" src="./jakub.png">
 
-I am a product-minded engineer. I have a strong background in theoretical computer science and mathematics. 
+I am a product-minded software engineer and leader. I am interested in building solutions that solve important customer problems. I also
+believe reliability is a feature both for clients and a healthy development team.
 
-I am interested in building solutions that solve important customer problems. I advocate for a thoughtful decision process because everything is a tradeoff. I also believe reliability is a feature for both customers and a healthy development team. 
+During my career, I served in multiple roles in the software development life cycle. I have experience as an engineer, tech lead, and team lead.
+I worked at companies of different sizes and maturity. I started my career at big corporations like Google, Facebook, or Zendesk, and move 
+now to a startup world. Currently, I'm employed at Superside. 
 
-During my career, I served in multiple roles in the software development life cycle. I have experience as an engineer, tech lead, and team lead. 
-
-I value honesty, transparency, and candid feedback. I bring a growth and collaboration mindset and help team members to perform at their best.
+In my free time, I'm trying to understand the scientifc background behind cooking.
 
 <a href="https://github.com/j-nowak"> <i class="about-fa-icon fab fa-github"></i>GitHub</a>
 <span>&#183;</span>

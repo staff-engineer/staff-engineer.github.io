@@ -4,14 +4,21 @@ date: 2022-11-27T11:49:30+01:00
 draft: true
 ---
 
-We write about leadership in software engineering.
+We write about leadership in software engineering. We try to uncover how to become and be successful as an engineering leader. We're going 
+to share our personal experiences, challenges we've seen, and skills we learned.
 
 ## Kamil
 <img class="about-profile" src="./kamil.jpeg">
 
-Product-minded engineer, prior to joining Superside, engineering tech lead owning products facing 20M B2C customers. Experienced in building resilient distributed services with strong consistency guarantees.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
 
-Theoretical Computer Science alumni, with a background in mathematics and algorithms. Functional programming and strongly-typed languages enthusiast with heavy expertise in Scala language. Pragmatic TDD practitioner, effective async communication evangelist.
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<a href="https://github.com/Crossy147"> <i class="about-fa-icon fab fa-github"></i>GitHub</a>
+<span>&#183;</span>
+<a href="https://www.linkedin.com/in/kamil-pietruszka/"> <i class="about-fa-icon fab fa-linkedin-in"></i>LinkedIn</a>
+<span>&#183;</span>
+<a href="mailto:pl.kamil.pietruszka@gmail.com"> <i class="about-fa-icon fa fa-envelope"></i>Email</a>
 
 ## Jakub
 <img class="about-profile" src="./jakub.jpg">

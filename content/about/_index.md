@@ -23,6 +23,8 @@ During my career, I served in multiple roles in the software development life cy
 
 I value honesty, transparency, and candid feedback. I bring a growth and collaboration mindset and help team members to perform at their best.
 
-<a href="https://github.com/j-nowak"> <i class="about-fa-icon fab fa-github"></i>GitHub</a> | 
-<a href="https://www.linkedin.com/in/jakub-nowak-0909329b"> <i class="about-fa-icon fab fa-linkedin-in"></i>LinkedIn</a> | 
+<a href="https://github.com/j-nowak"> <i class="about-fa-icon fab fa-github"></i>GitHub</a>
+<span>&#183;</span>
+<a href="https://www.linkedin.com/in/jakub-nowak-0909329b"> <i class="about-fa-icon fab fa-linkedin-in"></i>LinkedIn</a>
+<span>&#183;</span>
 <a href="mailto:pl.jakub.nowak@gmail.com"> <i class="about-fa-icon fa fa-envelope"></i>Email</a>

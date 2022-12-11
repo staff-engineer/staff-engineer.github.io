@@ -7,13 +7,14 @@ draft: true
 We write about leadership in software engineering.
 
 ## Kamil
+<img class="about-profile" src="./kamil.jpeg">
 
 Product-minded engineer, prior to joining Superside, engineering tech lead owning products facing 20M B2C customers. Experienced in building resilient distributed services with strong consistency guarantees.
 
 Theoretical Computer Science alumni, with a background in mathematics and algorithms. Functional programming and strongly-typed languages enthusiast with heavy expertise in Scala language. Pragmatic TDD practitioner, effective async communication evangelist.
 
 ## Jakub
-<img class="about-profile" src="./jakub.png">
+<img class="about-profile" src="./jakub.jpg">
 
 I am a product-minded software engineer and leader. I am interested in building solutions that solve important customer problems. I also
 believe reliability is a feature both for clients and a healthy development team.

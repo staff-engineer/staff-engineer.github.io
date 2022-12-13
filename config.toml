@@ -215,12 +215,12 @@ uglyURLs = false
         weight = 2
         pre = "internal"
         post = "archive"
-    [[menu.main]]
-        pageref = "/categories/"
-        name = "Categories"
-        weight = 3
-        pre = "internal"
-        post = "th"
+    # [[menu.main]]
+    #    pageref = "/categories/"
+    #    name = "Categories"
+    #    weight = 3
+    #    pre = "internal"
+    #    post = "th"
     [[menu.main]]
         pageref = "/tags/"
         name = "Tags"
@@ -1194,11 +1194,11 @@ uglyURLs = false
     shareOnTwitter = true
     shareOnFacebook = true
     shareOnLinkedIn = true
-    shareOnTelegram = true
-    shareOnWeibo = true
-    shareOnDouban = true
-    shareOnQQ = true
-    shareOnQzone = true
+    shareOnTelegram = false
+    shareOnWeibo = false
+    shareOnDouban = false
+    shareOnQQ = false
+    shareOnQzone = false
 
     shareViaQRCode = true
 

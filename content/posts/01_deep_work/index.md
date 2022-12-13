@@ -105,7 +105,7 @@ to limit the `meeting gaps time`.
 I was in quite good position, as most of my meetings were 1:1s
 **What I did:**
 - Dropped from the meetings on which my attendance had little impact
-- Minimise time in big meetings 3+ guests in favor of 1:1, as the conversation pattern is more natural
+- Minimised time in big meetings 3+ guests in favor of 1:1, as the conversation pattern is more natural
 - Stacked the meetings into bigger slots, to avoid gaps
 - Picked a dedicated day (Friday) for async communication only, for the most demanding tasks
 - Whenever I’ve got a demanding task that fits nicely into the ~6 hours of work, I plan it upfront for Friday.

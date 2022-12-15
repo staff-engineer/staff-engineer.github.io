@@ -29,7 +29,7 @@ In my free time, I'm trying to understand the scientifc background behind cookin
 ## Kamil
 <img class="about-profile" src="./kamil.jpeg">
 
-I consider myself to be an outcome-focused software engineer with a strong product mindset. Daily, I'm all into end-to-end ownership and clear upfront communication. Personally, I'm a true believer in quality over quantity based on well-built technical fundamentals.
+I consider myself to be an outcome-focused software engineer with a strong product mindset. I'm all into end-to-end ownership and clear upfront communication. Personally, I'm also a true believer in quality over quantity based on well-built technical fundamentals.
 
 Throughout my career, I've been involved in the technical leadership for product engineering within IoT, Retail, FinTech, and Design domains for startups and scaleups. I've been leading the CX platform's product engineering facing over 20M customers at Revolut and recently shifted into the Developer excellence aspects of the engineering at Superside in its high-growth phase.
 

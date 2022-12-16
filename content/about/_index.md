@@ -4,21 +4,9 @@ date: 2022-11-27T11:49:30+01:00
 draft: true
 ---
 
-We write about leadership in software engineering. We try to uncover how to become and be successful as an engineering leader. We're going 
+We write about leadership in software engineering, uncovering how to become and be successful as an engineering leader. We're going 
 to share our personal experiences, challenges we've seen, and skills we learned.
 
-## Kamil
-<img class="about-profile" src="./kamil.jpeg">
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-<a href="https://github.com/Crossy147"> <i class="about-fa-icon fab fa-github"></i>GitHub</a>
-<span>&#183;</span>
-<a href="https://www.linkedin.com/in/kamil-pietruszka/"> <i class="about-fa-icon fab fa-linkedin-in"></i>LinkedIn</a>
-<span>&#183;</span>
-<a href="mailto:pl.kamil.pietruszka@gmail.com"> <i class="about-fa-icon fa fa-envelope"></i>Email</a>
 
 ## Jakub
 <img class="about-profile" src="./jakub.jpg">
@@ -37,3 +25,16 @@ In my free time, I'm trying to understand the scientifc background behind cookin
 <a href="https://www.linkedin.com/in/jakub-nowak-0909329b"> <i class="about-fa-icon fab fa-linkedin-in"></i>LinkedIn</a>
 <span>&#183;</span>
 <a href="mailto:pl.jakub.nowak@gmail.com"> <i class="about-fa-icon fa fa-envelope"></i>Email</a>
+
+## Kamil
+<img class="about-profile" src="./kamil.jpeg">
+
+I consider myself to be an outcome-focused software engineer with a strong product mindset. I'm all into end-to-end ownership and clear upfront communication. Personally, I'm also a true believer in quality over quantity based on well-built technical fundamentals.
+
+Throughout my career, I've been involved in the technical leadership for product engineering within IoT, Retail, FinTech, and Design domains for startups and scaleups. I've been leading the CX platform's product engineering facing over 20M customers at Revolut and recently shifted into the Developer excellence aspects of the engineering at Superside in its high-growth phase.
+
+<a href="https://github.com/Crossy147"> <i class="about-fa-icon fab fa-github"></i>GitHub</a>
+<span>&#183;</span>
+<a href="https://www.linkedin.com/in/kamil-pietruszka/"> <i class="about-fa-icon fab fa-linkedin-in"></i>LinkedIn</a>
+<span>&#183;</span>
+<a href="mailto:pl.kamil.pietruszka@gmail.com"> <i class="about-fa-icon fa fa-envelope"></i>Email</a>

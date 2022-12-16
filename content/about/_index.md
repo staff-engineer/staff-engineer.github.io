@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2022-11-27T11:49:30+01:00
-draft: true
 ---
 
 We write about leadership in software engineering, uncovering how to become and be successful as an engineering leader. We're going 

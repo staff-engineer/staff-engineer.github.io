@@ -1,6 +1,6 @@
 [[socials]]
     id = "email"
-    url = "mailto:kamilos147@gmail.com" # TODO: Replace with the custom domain once bought
+    url = "mailto:contact@staffengineer.fyi"
     icon = "envelope"
     title = "Email"
     weight = 2

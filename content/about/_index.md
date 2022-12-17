@@ -23,7 +23,7 @@ In my free time, I'm trying to understand the scientifc background behind cookin
 <span>&#183;</span>
 <a href="https://www.linkedin.com/in/jakub-nowak-0909329b"> <i class="about-fa-icon fab fa-linkedin-in"></i>LinkedIn</a>
 <span>&#183;</span>
-<a href="mailto:pl.jakub.nowak@gmail.com"> <i class="about-fa-icon fa fa-envelope"></i>Email</a>
+<a href="mailto:jakub@staffengineer.fyi"> <i class="about-fa-icon fa fa-envelope"></i>Email</a>
 
 ## Kamil
 <img class="about-profile" src="./kamil.jpeg">
@@ -36,4 +36,4 @@ Throughout my career, I've been involved in the technical leadership for product
 <span>&#183;</span>
 <a href="https://www.linkedin.com/in/kamil-pietruszka/"> <i class="about-fa-icon fab fa-linkedin-in"></i>LinkedIn</a>
 <span>&#183;</span>
-<a href="mailto:pl.kamil.pietruszka@gmail.com"> <i class="about-fa-icon fa fa-envelope"></i>Email</a>
+<a href="mailto:kamil@staffengineer.fyi"> <i class="about-fa-icon fa fa-envelope"></i>Email</a>

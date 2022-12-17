@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://staff-engineer.github.io/" # TODO: Replace with the custom domain once bought
+baseURL = "httpd://www.staffengineer.fyi/"
 title = "Staff Engineer Blog"
 languageCode = "en"
 hasCJKLanguage = false
@@ -106,7 +106,7 @@ uglyURLs = false
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://staff-engineer.github.io/"
+    website = "https://www.staffengineer.fyi/"
     # Twitter
     twitter = "Crossy147"
 

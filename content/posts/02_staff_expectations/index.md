@@ -20,6 +20,7 @@ traits a staff engineer should have. We wanted to describe those that are fundem
 So what are those expectations?
 
 ## Get things done
+![](./done.jpg)
 
 This might as well be applied for the earlier postions. But for staff engineers it gets even more imporatant. Staff engineers have to get 
 their own work done and make sure others can do it too. They should help other engineers and teams manage and prioritize complex projects. 
@@ -33,7 +34,7 @@ Some of the examples of geting stuff done:
 * Find a way to solve a particularily difficult problem.
 
 ## Be role model and mentor others
-<aligining vectors image>
+![](./arrows.png)
 
 At some point in a career, you usually start to have a bigger impact through others, rather than by your individual contributions. This 
 happens not only on the management track, but also for technical leaders. Some foretaste comes even for senior engineers, but you get a full

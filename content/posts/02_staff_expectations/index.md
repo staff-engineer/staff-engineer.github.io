@@ -17,33 +17,57 @@ We're going to focus in this article mostly on the **Tech Lead** archetype, whic
 expectations for staff engineers based on our experience. The list is definitly not complete and there are many very important skills and 
 traits a staff engineer should have. We wanted to describe those that are fundematal regardless of the specific situation.
 
-# Get things done
+So what are those expectations?
 
-* deliver quality solutions
-* unblock teams
-* improve dev ex and productivity
-* be glue for complex, cross team projects
+## Get things done
 
-# Be role model and mentor others
+This might as well be applied for the earlier postions. But for staff engineers it gets even more imporatant. Staff engineers have to get 
+their own work done and make sure others can do it too. They should help other engineers and teams manage and prioritize complex projects. 
+They should act as a "glue" to ensure engineering teams are working and delviering smoothly. They should observe and elimanties deceloper
+experience problems and increase productivity.
 
-* demonstrated company culture by actions
-* be mentor to others and help them advance in their life and careers
-* grow people around
+Some of the examples of geting stuff done:
+* Help the team with project management and prioritization.
+* Identify hidden risks and dependencies, which could disturb project delivery.
+* Advocate with leadership and finding necessary resource to finish a project.
+* Find a way to solve a particularily difficult problem.
 
-# Communicate clearly and bring clarity
+## Be role model and mentor others
+<aligining vectors image>
+
+At some point in a career, you usually start to have a bigger impact through others, rather than by your individual contributions. This 
+happens not only on the management track, but also for technical leaders. Some foretaste comes even for senior engineers, but you get a full
+experience of it on staff+ positions. 
+
+Yonger people start to look up to staff engineers and even try to mimick their behavior. Basically, staff engineers become role models for
+others. That's why it's important to demonstrate company's values and culture through actions. You get the leverage to align people and 
+multiple the outcome.
+
+Staff engineers aslo get an opportunity (and obligation) to mentor other people. We consider it a great privilage, to be able to pass your
+experiences and your knowledge to other people. Helping people grow and succeeded is very important. Not only you're activly using your time
+for others, but also you're increasing the are of impact. We also believe, that during mentoring, you can learn tremendous amount of things
+about yourself, efficient communication, setting goals, etc.
+
+Examples, how to influence others:
+* Participate or start mentoring program at your company.
+* Activly demonstrate company values and culture through your actions
+* Review code, documents, proposals, etc.
+* Give feedback!
+
+## Communicate clearly and bring clarity
 
 * make sure people understand what they need to work on
 * listen carefully to others
 * spot issues and miscommunication problems
 * explain why
 
-# Bring calm
+## Bring calm
 
 * stressful situations
 * help with prioritization
 * again bring the clarity
 
-# Build trust and relationships
+## Build trust and relationships
 
 * build your credibility, so people trust you
 * build and cherish relationships

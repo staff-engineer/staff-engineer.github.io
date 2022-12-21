@@ -85,11 +85,22 @@ So what to do to bring calm to the team?
 * And again, communicate clearly and bring clarity.
 
 ## Build trust and relationships
+![](./relationship.png)
 
-* build your credibility, so people trust you
-* build and cherish relationships
-* approach with empathy to other people and teams
-* understand their needs
+Last but mnot least, staff engineers are expected to build and cherish reliationships at work. They should have realtionships not only with 
+their closest team, but different stakeholders and other collegeas in the organization. They shpuld listen carefully and understand the 
+needs of people and teams. This can help them better identify problems and empower others.
+
+Moreover, it's expected that staff engineers will build credibility and visibility. It's important, that other people and leaders will trust
+they can do a good job. Leadership positions usually bring more "freedom" on what to work, offten behind scenes, so it's crucial to keep
+stakeholders up to date on what's going on. Also, when people trust you, they're going to be more open and you're going to gain more from
+the relationship.
+
+Some ideas how to build trut and relatioships:
+* Have regular 1:1s with your team members and other people in the organization.
+* Approach with emapthy, listen carefully and try to understand different points of view.
+* Build your credibility and visibility in the organization, so people know they can rely on you.
+* Be accountable, communicate clearly what you're going to do and what's not going to happen.
 
 # Summary
 TBD

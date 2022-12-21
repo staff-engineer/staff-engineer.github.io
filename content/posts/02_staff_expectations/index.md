@@ -104,7 +104,11 @@ Some ideas how to build trut and relatioships:
 * Be accountable, communicate clearly what you're going to do and what's not going to happen.
 
 # Summary
-TBD
+To recap, we went through 5 expecations towards staff engineers. The lists is definitly non-exhaustive, but contins a lot of important 
+skills and traits staff engineers bring to work. We have also mentiones some ideas, how you could exhibit them at your workplace.
+
+Those expectations could be also useful for engineers looking forward to the promotion on the staff engineer level. We believe that to land
+this big promotion, you need to show evidence for performing on a staff level and therfore meeting those expectations.
 
 # References
 

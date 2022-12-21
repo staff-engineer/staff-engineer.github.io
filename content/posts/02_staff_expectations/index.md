@@ -5,8 +5,6 @@ tags: [
     "career", "growth"
 ]
 ---
-![](./staff_background.png)
-*Image source: [DALL·E 2](https://openai.com/dall-e-2/)*
 
 It's relatvily easy to explain expactions for junior, mid and even senior engineers. Career progression broadens the scope of work and
 responsibilites. But it starts to get much more difficult at staff+ positions. The environment and problems get more ambigous, and so the 
@@ -18,6 +16,8 @@ expectations for staff engineers based on our experience. The list is definitly 
 traits a staff engineer should have. We wanted to describe those that are fundematal regardless of the specific situation.
 
 So what are those expectations?
+
+# Expectations
 
 ## Get things done
 ![](./done.jpg)
@@ -56,17 +56,33 @@ Examples, how to influence others:
 * Give feedback!
 
 ## Communicate clearly and bring clarity
+![](./communication.png)
 
-* make sure people understand what they need to work on
-* listen carefully to others
-* spot issues and miscommunication problems
-* explain why
+Misommunication is often a source of most problems at work (and life). Misunderstanding can often result in poor performance, subpar
+quality, stressed people, or wasted time. The role of staff engineers is to bring 
+[clarity and alignment](https://alexewerlof.substack.com/p/6-ways-staffs-reach-clarity).
+
+There are a number of things staff engineers should do to improve communication in their teams and company:
+* Listen carefully to others and understand their problems and point of view.
+* Make sure team reach collective understanding.
+* [Start with why](https://simonsinek.com/books/start-with-why/) and explain why we work on certain things.
+* Lead by example and improve their own communciation skills. Show more junior engineers this is often a key to success.
 
 ## Bring calm
+![](./calm.jpg)
 
-* stressful situations
-* help with prioritization
-* again bring the clarity
+There are going to be some stressful situations at work. It can be either tight deadline or application incident. Staff enginners should
+show their experience and stay calm during the crisis. They should take a lead, communicate cleary and help with prioritization. Their role
+is to help team members do their work better.
+
+Another way to bring calm to the organization is by preparing for different failure scenarios much earlier. Staff engineers should asses
+possible risks even before the project starts. Then, during ideadion or implementation phase, they should systematically review the risks,
+think if mitigation plans still work and adjust. The best way to get out of the crisis is to foresee it and prevent it from happening.
+
+So what to do to bring calm to the team?
+* Do risk assesment, pre-mortems and anticipate failure scenarios before they happen.
+* In critical situations take a lead and help the team solve the problem.
+* And again, communicate clearly and bring clarity.
 
 ## Build trust and relationships
 
@@ -74,3 +90,8 @@ Examples, how to influence others:
 * build and cherish relationships
 * approach with empathy to other people and teams
 * understand their needs
+
+# Summary
+TBD
+
+# References

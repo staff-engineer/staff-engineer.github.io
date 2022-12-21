@@ -44,10 +44,11 @@ Yonger people start to look up to staff engineers and even try to mimick their b
 others. That's why it's important to demonstrate company's values and culture through actions. You get the leverage to align people and 
 multiple the outcome.
 
-Staff engineers aslo get an opportunity (and obligation) to mentor other people. We consider it a great privilage, to be able to pass your
-experiences and your knowledge to other people. Helping people grow and succeeded is very important. Not only you're activly using your time
-for others, but also you're increasing the are of impact. We also believe, that during mentoring, you can learn tremendous amount of things
-about yourself, efficient communication, setting goals, etc.
+Staff engineers aslo get an opportunity (and obligation) to 
+[mentor](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) other people. We consider it a great privilage, to be 
+able to pass your experiences and your knowledge to other people. Helping people grow and succeeded is very important. Not only you're 
+activly using your time for others, but also you're increasing the are of impact. We also believe, that during mentoring, you can learn 
+tremendous amount of things about yourself, efficient communication, setting goals, etc.
 
 Examples, how to influence others:
 * Participate or start mentoring program at your company.
@@ -106,3 +107,8 @@ Some ideas how to build trut and relatioships:
 TBD
 
 # References
+
+* https://staffeng.com/guides/staff-archetypes
+* https://blog.pragmaticengineer.com/developers-mentoring-other-developers/
+* https://alexewerlof.substack.com/p/6-ways-staffs-reach-clarity
+* https://simonsinek.com/books/start-with-why/

@@ -6,18 +6,16 @@ tags: [
 ]
 ---
 
-It's relatively easy to explain expectations for junior, mid, and even senior engineers. Career progression broadens the scope of work and
-responsibilities. But it starts to get much harder at staff+ positions. The environment and problems get more ambiguous, and so does the 
-scope of work. It's not easy to define a clear and measurable set of expectations, because staff roles also differ between companies and
+It's relatively easy to explain expectations for junior, mid, and even senior engineers. But it starts to get much harder at staff+ 
+positions. Career progression broadens the scope of work andresponsibilities. The environment and problems get more ambiguous. It's not easy
+to define a clear and measurable set of expectations, because staff roles also differ between companies and
 their actual needs. They can also vary between different [staff engineer archetypes](https://staffeng.com/guides/staff-archetypes).
 
 In the article, we will focus mostly on the **Tech Lead** archetype, which is the most popular in the industry. We will present some 
 expectations for staff engineers based on our experience. The list is not complete and there are many very important skills and 
 traits a staff engineer should have. We wanted to describe those that are fundamental regardless of the specific situation.
 
-So what are those expectations?
-
-# Expectations
+# So what are those expectations?
 
 ## Get things done
 ![](./done.jpg)
@@ -37,11 +35,11 @@ Some of the examples of getting stuff done:
 ![](./arrows.png)
 
 At some point in a career, you usually start to have a bigger impact through others, rather than by your individual contributions. This 
-happens not only on the management track but also on technical leaders. Some foretaste comes even for senior engineers, but you get a full
+happens not only on the management track but also for technical leaders. Some foretaste comes even for senior engineers, but you get a full
 experience of it in staff+ positions. 
 
 Younger people start to look up to staff engineers and even try to mimic their behavior. Staff engineers become role models for
-others. That's why it's important to demonstrate the company's values and culture through actions. You get the leverage to align people and 
+others. That's why it's important to demonstrate the company's values and culture through actions. They get the leverage to align people and 
 multiply the outcome.
 
 Staff engineers also get an opportunity (and obligation) to 
@@ -59,7 +57,7 @@ Examples, of how to influence others:
 ## Communicate clearly and bring clarity
 ![](./communication.png)
 
-Miscommunication is often a source of most problems at work (and in life). Misunderstanding can often result in poor performance, subpar
+Miscommunication is often a source of most problems at work (and in life). Misunderstanding can result in poor performance, subpar
 quality, stressed people, or wasted time. The role of staff engineers is to bring 
 [clarity and alignment](https://alexewerlof.substack.com/p/6-ways-staffs-reach-clarity).
 
@@ -104,10 +102,10 @@ Some ideas on how to build trust and relationships:
 * Be accountable, and communicate clearly what you're going to do and what's not going to happen.
 
 # Summary
-To recap, we went through 5 expectations towards staff engineers. The list is non-exhaustive but contains a lot of important 
-skills and traits staff engineers bring to work. We have also mentioned some ideas, on how you could exhibit them at your workplace.
+To recap, we went through 5 expectations towards staff engineers. The list is non-exhaustive but contains skills and traits we consider 
+important for staff engineers. We have also mentioned some ideas, on how you could exhibit them at your workplace.
 
-Those expectations could be also useful for engineers looking forward to the promotion to the staff engineer level. We believe that to land
+Those expectations can be also useful for engineers looking forward to the promotion to the staff engineer level. We believe that to land
 this big promotion, you need to show evidence of performing on a staff level and therefore meeting those expectations.
 
 # References

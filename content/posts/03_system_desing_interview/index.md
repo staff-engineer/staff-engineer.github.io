@@ -14,10 +14,10 @@ draft: true,
 2. Goals of the sys design interview
   * High level goals the same as for all interviews
   * Would the candidate be able to do their job
-  * Which of our career levels does the candidate fit best into
+  * Which of our career levels does the candidate fit best into career ladder levels
   * Would the candidate raise our bar of talents
 3. Competencies and skills to evalute
-  * prbolem understanding
+  * problem understanding
   * getting it done
   * distributed systems knowledge
   * technical leadership

@@ -15,63 +15,62 @@ However, conducting a system design interview can also be stressful for the inte
 
 # Goals of the system design interview
 
-High level goals of the system desing interview are shared with other interviews. We want to asses if the candaidate would be able to do their job. Next, we want to know how they fit into our career ladder level. Last but not least asses if they would raise the bar of talents.
+The system design interview shares similar high-level goals with other types of interviews. The primary objective is to assess whether the candidate has the necessary skills and expertise to perform the job effectively. Additionally, the interview aims to evaluate the candidate's potential fit within the company's career ladder and assess whether they have the ability to raise the bar of talent within the organization.
 
-With high level goals in mind, let's get down to specifics. First and foremost, you need to know what your company expects and look for. Not every company needs to design systems at Google scale. We strongly recommend to think about your company's business needs and actual problems. Try to come up with a with a set of requirems very close to your day to day design and scalability problems. This interview should help you asses if the candidate can do their job well.
+To achieve these goals, it's essential to have a clear understanding of what your company expects and what you're looking for in a candidate. It's important to consider the specific business needs and actual problems that the candidate would be expected to tackle in their day-to-day work. As such, it's recommended to develop a set of requirements that are closely aligned with the company's design and scalability challenges.
+
+By doing so, the system design interview can effectively evaluate whether the candidate has the requisite skills and expertise to perform their job. This assessment should include evaluating the candidate's ability to solve problems, attention to detail, and communication skills, as well as their ability to prioritize and make trade-offs. Ultimately, the goal is to ensure that the candidate has the technical aptitude and leadership potential to excel within the organization.
 
 We recommend to focus on the following aspects:
-* Assesses the ability to build the system from scratch* or evolve the existing solution.
-* Ideate the scope, and challenge status quo.
-* Evaluate technical trade-offs, ability to compare competing solutions, make pragmatic decisions
-* Understand the components of a more complex system, predict potential bottlnecks and find a way to avoid them
-* Showacase technical leadrship and communciation skills.
+* Assess the candidate's ability to build a system from scratch or evolve an existing solution.
+* Grade their capacity to ideate the scope of the system and challenge the status quo.
+* Examine their ability to make technical trade-offs and compare competing solutions, as well as their capacity to make pragmatic decisions.
+* Scrutinize their understanding of the components of a complex system, and their ability to predict potential bottlenecks and find ways to avoid them.
+* Judge their technical leadership and communication skills, which are essential for success in any technical role.
 
 # Competencies and skills to evalute
 
-When you know you high level goals and company needs it's time to craft a set of competencies to evalute. Same as working on a technical problem, it's important to define the set of requirements to fulfill. We recommend to do it before desiging an interview task. The last thing you would want to happen is create a complex task with extensions, which doesn't allow you to asses candidates.
+Once you have identified your high-level goals and company needs, the next step is to create a set of competencies to evaluate the candidates. Similar to solving a technical problem, it's crucial to define the requirements to fulfill. We recommend doing this before designing an interview task to avoid creating a complex task with extensions that doesn't allow you to assess the candidates effectively.
 
-The list of competencies and skills to evalute is helpful not only to craft an interview task, but also to asses a candidate during the actual interview. We advise to keep it at hand during the interiew, so you can provide stuctured feedback for the candidates. This list should also allow you to distinguish between mid, senior and staff+ candidates. Remember taht the candidate doesn’t need to match all listed requirements for certain level. Those interviews don't always have a linear flow, so they can look differentialy with different set of people. Howevewer stronger people should be able to "check off" more one hte list, than less experienced.
+Having a list of competencies and skills to evaluate is not only useful for creating an interview task but also for assessing the candidate during the actual interview. We suggest keeping the list handy during the interview, so you can provide structured feedback to the candidates. Additionally, this list can help distinguish between mid, senior, and staff+ candidates. Keep in mind that the candidate does not need to meet all the requirements listed for a particular level. The flow of these interviews is not always linear and can vary with different individuals. However, more experienced candidates should be able to check off more competencies on the list than less experienced ones.
 
 ## Categories of competencies
 
-Conceptually, we distinguish 4 groups of competencies, which can later be broken down into more granular:
-* problem understanding and communication
-* problem solving
-* distributed systems knowledge
-* technical leadership
+To effectively evaluate a candidate's system design skills, it's important to craft a set of competencies to assess. Conceptually, we distinguish four groups of competencies, which can later be broken down into more granular categories:
+* Problem understanding and communication
+* Problem solving
+* Distributed systems knowledge
+* Technical leadership
 
-What do we expect to see from candidates?
 ### Problem understanding and communication
-First and fore most, we need candidates which can communicate cleraly and establish problem boundries. In most situations, engineers don't work in isolated, very well-defined environments. We advocate that engineers should be present from an early stage of product ideation and help define problem to solve, together with requirements. Skills to watch out in the category:
-* Ability to share thoughts clearly
-* Asking questions and being curious what we build
-* Understanding what we build, why and for what are the business needs
+The ability to effectively communicate and establish problem boundaries is crucial for candidates. It's important to remember that engineers typically don't work in isolated, well-defined environments. Rather, they should be involved from the early stages of product ideation and help define the problem to be solved along with its requirements. When evaluating candidates in this category, consider the following skills:
+* Clear communication abilities
+* Inquisitive nature and willingness to ask questions
+* Understanding of the business needs and the purpose of the product being built.
 
 ### Problem solving
-One of the crucial skills of strong engineers is getting things done. No matter what difficulties there are, they find a way to solve a problem. They don't give up when they're stuck, but find a way to overcome obstacles. It's null until you ship it.
-* Usually there are going to be multiple stages or extensions of the task. Depending on the candidate's experience you may expect them to reach at at a certain point.
-* The design should be scalable and open for improvments. Experienced candidates should be able to prevent potential bottlnecks and find a way to solve them.
-* There might be different resiliency issues, which senior engineers should be able to solve.
+Being able to deliver and accomplish tasks is a key characteristic of strong engineers. They possess the ability to tackle problems, persist through difficulties, and find solutions. It's null until you ship it. In order to assess this competency during the interview process, here are some things to keep in mind:
+* Tasks should be designed with multiple stages or extensions to evaluate the candidate's ability to progress and complete the task at an appropriate level.
+* Designs should be scalable and open to improvements, allowing experienced candidates to identify and prevent potential bottlenecks.
+* Different resiliency issues may arise, which senior engineers should be equipped to handle. These issues should be included in the task to assess their problem-solving abilities.
 
 ### Distributed systems knowledge
-Some theoretical knowldege is also an important aspect of our jobs. Maybe we don't always use NoSQL databases, or advanced queuing, but it's good to at leas understand how to use them, what is the cost and what benefits. In addition, we should look for some deeper understanding and specialization of a part of the technology stack. It's our job as an interviewer to guide and allow a candidate to shine. This can show, that a candidate spends enough time t understand what they're doing and can understand more complex concets. Especially more senior engineers can have deeper expertise in some areas than you. Let them go and see if they can teach you something.
+In addition to practical skills, having theoretical knowledge is also important in our field. While we may not always use NoSQL databases or advanced queuing systems, it's beneficial to at least have an understanding of how they work, their cost, and benefits. Moreover, we should also assess a candidate's deeper understanding and specialization in a particular part of the technology stack. As interviewers, it's our responsibility to guide candidates and give them the opportunity to showcase their expertise. This can indicate that a candidate is invested in their work and has a good grasp of complex concepts. Furthermore, more senior engineers may have deeper knowledge in certain areas than we do, so it's worthwhile to let them shine and even teach us something.
 
 ### Technical leadership
-Last but not least, try to asses the candidates skills across technical leadership. This can help you distinguish strong staff+ engineers from senior ones. Watch out for indicators like:
-* The decisions process and how they choose tools to solve problems
-* Check if design is customer-centric or technology-centric.
-* Validating the scope of a problem and predicting potential risks to the project
-------
+Lastly, it's important to assess the candidate's skills in technical leadership. This will help differentiate strong staff+ engineers from senior ones. Look out for indicators such as:
 
-In one of the future articles, we're going to present an example competencies scorecard, as well as and example interview task. 
+Their decision-making process and how they choose tools to solve problems.
+Check whether the design is customer-centric or technology-centric.
+Validate the scope of a problem and predict potential risks to the project.
 
-4. Pick and prepare a system 
-  * something you know and understand well
-  * split into increments and outline potential interview framework (not that candaidates may not follow this exactly and it's fine)
-  * think about limitations, use cases, current and future load
-5. Document it and improve
-  * document and introduce other interviewers
-  * good to conduct in pairs
-6. Summuary
-  * detailed example with scorecards to follow  
+# Summary
+In this article, we discussed the key elements of conducting an effective system design interview for software engineering candidates. We empasized the importance of first defining the high-level goals and competencies to evaluate, as well as considering the specific needs and challenges of the company. We recommended breaking down the competencies to evaluate into four categories: problem understanding and communication, problem solving, distributed systems knowledge, and technical leadership. We provided specific tips and indicators to look for when evaluating candidates across these competencies, and encourages interviewers to keep the overall goals and competencies in mind throughout the interview process.
 
+In the upcoming article, we will delve into the process of preparing an effective interview task for software engineering candidates. We will provide detailed guidance on how to create a well-structured and relevant task that aligns with the competencies to evaluate, as well as share tips how to assess the candidate's performance.
+
+Moreover, we will provide insights on how to conduct an interview that effectively evaluates the candidate's technical skills, problem-solving abilities, communication skills, and other competencies. We will also discuss common pitfalls to avoid during the interview process and ways to improve it in the future, such as soliciting feedback from interviewers and candidates alike. 
+
+By following the best practices we'll share in this series of articles, you can ensure a more efficient and effective interview process that accurately evaluates the skills and abilities of your software engineering candidates.
+
+In the next article, we will cover how to prepare an interview task with its associated scorecard. We will share the tips how to conduct an interview and how to improve the process in the future.

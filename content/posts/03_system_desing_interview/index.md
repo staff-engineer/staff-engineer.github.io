@@ -17,12 +17,19 @@ it challenging, so we can asses candidates well in terms of their seniority. It'
 
 There are plenty of articles how to ace an interview as a candidate, but very little from the interviewer's perspective. That's why we decided to share our experience and best practices.
 
+# Goals of the system design interview
 
-2. Goals of the sys design interview
-  * High level goals the same as for all interviews
-  * Would the candidate be able to do their job
-  * Which of our career levels does the candidate fit best into career ladder levels
-  * Would the candidate raise our bar of talents
+High level goals of the system desing interview are shared with other interviews. We want to asses if the candaidate would be able to do their job. Next, we want to know how they fit into our career ladder level. Last but not least asses if they would raise the bar of talents.
+
+With high level goals in mind, let's get down to specifics. First and foremost, you need to know what your company expects and look for. Not every company needs to design systems at Google scale. We strongly recommend to think about your company's business needs and actual problems. Try to come up with a with a set of requirems very close to your day to day design and scalability problems. This interview should help you asses if the candidate can do their job well.
+
+We recommend to focus on the following aspects:
+* Assesses the ability to build the system from scratch* or evolve the existing solution.
+* Ideate the scope, and challenge status quo.
+* Evaluate technical trade-offs, ability to compare competing solutions, make pragmatic decisions
+* Understand the components of a more complex system, predict potential bottlnecks and find a way to avoid them
+* Showacase technical leadrship and communciation skills.
+
 3. Competencies and skills to evalute
   * problem understanding
   * getting it done

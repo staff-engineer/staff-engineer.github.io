@@ -7,30 +7,30 @@ tags: [
 draft: true,
 ---
 
-In the previous article, we discussed the key elements of conducting an effective system design interview. We empasized the importance of first defining the high-level goals and competencies to evaluate. We covered the base skeelton, based on which we can design detailed interview questions.
+In the previous article, we discussed the critical components of conducting an effective system design interview, emphasizing the importance of defining high-level goals and competencies to evaluate. We provided a base skeleton that could be used to design detailed interview questions.
 
-In the current one, we wanted to focus on the process to create an actual interview task. We will dissucuss what to pay attention to, how to prepare, but not overprepare. We will define an example problem boundries, create an interview task. Then we will propose a scorecard, which could be used to codnuct and evalute the interview. 
+In this article, we will focus on the process of creating an actual interview task, specifically highlighting what to pay attention to and how to prepare without overpreparing. We will define the boundaries of an example problem and use this to create an interview task. Additionally, we will propose a scorecard that can be used to conduct and evaluate the interview.
 
-And don’t forget that interview is a bidirectional. It’s not just you evaluating them - they are also evaluating you and your company.
+It's important to remember that interviews are a two-way street. As an interviewer, you're not only evaluating the candidate, but they're also evaluating you and your company. Therefore, it's crucial to create an engaging and challenging interview task that showcases the company's values and culture while also effectively evaluating the candidate's skills and abilities.
 
 
 # Think about skills you want to evaluate
 
-Firstly, think what skills you want to evaluate, what do you expect the candaidate to know. Consider expecations from different levels. It's valuable to have one interview task for both junior and senior+ canidates, rather than multiple different task. Based on the experience, you can help more or less during the interview - same as you would do during work. Ideally you should have some list of competencies you need. Based on that you will be able to create a targeted task. 
+The first step in creating an effective system design interview task is to define the skills you want to evaluate and the expectations for candidates at different levels of seniority. Creating one interview task that can be used to evaluate both junior and senior+ candidates saves time in preparation and onboarding fellow interviewers. Additionally, it ensures that all candidates are evaluated using the same criteria, making the hiring process more consistent. Based on the candidate's experience, you can provide more or less guidance during the interview, similar to how you would on the job. This approach provides a realistic evaluation of the candidate's abilities and helps assess their potential fit within the team.
 
-As a recap, in the previous article we mentioned the following core copetencies, which we will use to prepare an example interview task:
+As a recap, in the previous article, we discussed several core competencies necessary for a system design interview. hese competencies will serve as the foundation for our example interview task, ensuring that we evaluate candidates based on the necessary skills for the job. The skills we would like to evaluate:
 * Problem understanding and communication
 * Problem solving
 * Distributed systems knowledge
 * Technical leadership
 
-Let's also assume we are designing an interview task for a typical SaaS company, where we have a bunch of CRUD microservices, SQL databases, and supporting reporting services. 
+These competencies will be used to prepare an example interview task. Let's assume that we are designing an interview task for a typical SaaS company that uses a range of CRUD microservices, SQL databases, and supporting reporting services. This assumption will help us define the interview task's scope.
 
 # Pick the system and problem set
 
-Now, as we know what competencies to evaluate it's time to pick a system to design. We recommend picking something you're familiar with, and have some expertise.  When you know something, you should also have a pretty good undestanding about potential bottlnecks, limitations and resilienccy issues. With some experience behind your back, it's easier later to drill down some details.
+Selecting the appropriate system to design for the interview task is crucial in evaluating the candidate's skills effectively. We recommend choosing a system that you are knowledgeable about and have expertise in. Having a good understanding of the system's architecture and potential bottlenecks, limitations, and resilience issues is essential. With prior experience, it becomes easier to dive deeper into the system's details and evaluate the candidate's thought process.
 
-We also recommend to not using the "classical" problem names like "design Twitter" or "design Youtube", unless you're actually working at suche a company. be honest with yourself, and realistic about the scale and problems at your company. This interview is also a showcase of your company and it should spark an interest with the candidate. Big classic names also can have a direct connection to book-like solutions, while you want to know how the candidate would get by in real, work life.
+We advise against using generic problem names such as "design Twitter" or "design Youtube" unless you work for such companies. It's important to be honest with yourself and select a system that is relevant to your company's scale and technical challenges. The interview is also an opportunity to showcase your company and its unique challenges, piquing the candidate's interest. Choosing well-known systems may lead to preconceived solutions based on existing literature, which may not reflect the real-world problems your company faces. Instead, selecting a more relevant system can provide valuable insights into how the candidate approaches real-life technical challenges.
 
 ## Example
 TODO:

@@ -99,12 +99,9 @@ An example scorecard, which we could use for our interview task.
 | Ability to identify and prioritize technical debt	                | Technical leadership	                  | Staff+ |
 | Can lead design discussions and solicit feedback	                | Technical leadership	                  | Staff+ |
 
-
 # Final improvments and interviewer guide
 
-* peer review
-* brush up things
-* prepare a guide for fellow interviewers
-* adjust as you go, but remember to keep it consistent and fair for candidates
+In addition to preparing for the interview, it's important to conduct a peer review of the interview task, plan, and scorecards. Collaborate with your colleagues to identify any potential biases and areas for improvement. Once you've identified these areas, create a guide for your fellow interviewers and onboard them to the process. As you continue with the interview process, make any necessary adjustments while maintaining consistency and fairness for all candidates. By reviewing and refining the process, you can ensure that the interview process is effective and unbiased.
 
 # Summary
+In this article, we provided a step-by-step guide for creating an effective system design interview task. The first step is to define the skills to be evaluated for different levels of seniority. Next, it is crucial to choose a relevant system to design for the interview task to evaluate the candidate's skills effectively. Establishing problem boundaries and limits is important, followed by outlining the interview structure to ensure that candidates focus on a simple design that can be expanded later. Lastly, detailed scorecards should be created to assess the candidate's performance effectively. The article offers examples and tips to help prepare a comprehensive task and evaluate the candidate's abilities to assess their potential fit within the team.

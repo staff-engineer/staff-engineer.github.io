@@ -86,8 +86,10 @@ An example scorecard, which we could use for our interview task.
 | Can explain the benefits and drawbacks of different architectures | Distributed systems knowledge           | Mid    |
 | Demonstrates broad knowledge of distributed systems               | Distributed systems knowledge           | Senior |
 | Can handle system failures and identify their causes	            | Distributed systems knowledge           | Senior |
+| Ability to reason about performance and latency tradeoffs	        | Distributed systems knowledge           | Senior |
 | Exhibits deep expertise in at least 1-2 key areas                 | Distributed systems knowledge           | Staff+ |
 | Accurately predicts bottlenecks and resiliency issues             | Distributed systems knowledge           | Staff+ |
+| Balances system performance and developer's experience            | Distributed systems knowledge           | Staff+ |
 | Identifies trade-offs and can make decisions	                    | Technical leadership                    | Senior |
 | Considers security and privacy concerns		                    | Technical leadership                    | Senior |
 | Utilizes tools and technologies to solve business problems        | Technical leadership                    | Senior |

@@ -41,9 +41,16 @@ TODO:
 
 # Establish problem boundries and limits
 
-* think what candidates may ask you, it's good to brainstrom this woth your colleges
-* plan what to reveal to the candidate, and what to leave them for discovery
-* make it adjustable to candidate's experience
+It's time to establish problem boundries and limits. It's essential to put yourself in the candidate's shoes and brainstorm potential questions they might ask you. This will help you prepare a more comprehensive task and identify areas where the candidate may struggle. Collaborating with colleagues can also help generate a list of relevant questions or ideas. 
+
+To give you some inspiration, here are some high-level questions you can ask yourself while preparing the interview task:
+* Who is the target audience of the application?
+* What are the expected traffic and usage patterns?
+* What is the anticipated growth rate of the system and business?
+* What is the current architecture of the system (if any)?
+* What technologies are required or preferred for the system?
+
+Once you have the questions and boundaries, plan what information you want to reveal to the candidate and what you want them to discover on their own. It's important to strike a balance based on the candidate's seniority level. Senior engineers are expected to be more independent and able to tackle challenges, while junior engineers may need more guidance to get started.
 
 ## Example
 

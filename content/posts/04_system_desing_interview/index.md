@@ -53,15 +53,17 @@ To give you some inspiration, here are some high-level questions you can ask you
 Once you have the questions and boundaries, plan what information you want to reveal to the candidate and what you want them to discover on their own. It's important to strike a balance based on the candidate's seniority level. Senior engineers are expected to be more independent and able to tackle challenges, while junior engineers may need more guidance to get started.
 
 ## Example
+TODO
 
-# Prepare a list of potential questions and problems to solve
+# Outline the interview structure
 
-* first, it's good to target a buy-in design
-* then dive into some details or specific tasks
-* topics may change depending on the candidate experience
-* don't expect everything will go according to your plan
+To ensure an effective system design interview, it's important to encourage candidates to focus on a simple design that can be expanded later. Many candidates may be influenced by literature that emphasizes huge scale at the beginning, so it's important to guide them towards a more realistic and practical approach.
 
-## Example
+Once you have established the initial high-level design with the candidate, it's time to delve into details. Prepare a list of topics that you want to cover, but also be prepared for candidates to go in different directions. As the interviewer, it's your responsibility to guide them towards the aspects that are most relevant to the task.
+
+It's also important to be understanding of the candidate's expertise and allow them to dive into details they are comfortable with. It's unrealistic to expect every candidate to be an expert in all software engineering branches. For more senior candidates, it's reasonable to expect them to have in-depth knowledge of one or two key areas, while having a decent understanding of the rest.
+
+Lastly, expect the unexpected. There is less structure in a system design interview compared to a coding one, so not everything will go according to plan. Be flexible and adapt to any unexpected turns in the conversation.
 
 # Create detailed scorecards
 

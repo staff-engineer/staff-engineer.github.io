@@ -67,10 +67,36 @@ Lastly, expect the unexpected. There is less structure in a system design interv
 
 # Create detailed scorecards
 
-* to be used during the interview
-* easier to write feedback
+We're almost ready for the interview. To assess the candidate's performance effectively, interviewers should have a scorecard on hand. This will help in writing constructive feedback and evaluating all the necessary skills. In addition to the scorecard, we recommend creating an interviewer guide that explains the details of the scoring criteria. This can be particularly helpful for onboarding new interviewers.
 
 ## Example
+An example scorecard, which we could use for our interview task.
+
+| Competency                                                        | Category                                | Level  |
+|-------------------------------------------------------------------|-----------------------------------------|--------|
+| Clearly articulates thoughts and ideas                            | Problem understanding and communication | Mid    |
+| Establishes clear problem boundaries and asks relevant questions  | Problem understanding and communication | Mid    |
+| Communicates assumptions and works to validate all requirements   | Problem understanding and communication | Senior |
+| Avoids making unfounded assumptions                               | Problem understanding and communication | Staff+ |
+| Develops a working solution for simple problems                   | Problem-solving                         | Mid    |
+| Extends solutions to meet new and complex requirements            | Problem-solving                         | Senior |
+| Identifies trade-offs and can make pragmatic decisions            | Problem-solving                         | Senior |
+| Designs highly scalable and flexible solutions                    | Problem-solving                         | Staff+ |
+| Possesses basic knowledge of distributed systems                  | Distributed systems knowledge           | Mid    |
+| Can explain the benefits and drawbacks of different architectures | Distributed systems knowledge           | Mid    |
+| Demonstrates broad knowledge of distributed systems               | Distributed systems knowledge           | Senior |
+| Can handle system failures and identify their causes	            | Distributed systems knowledge           | Senior |
+| Exhibits deep expertise in at least 1-2 key areas                 | Distributed systems knowledge           | Staff+ |
+| Accurately predicts bottlenecks and resiliency issues             | Distributed systems knowledge           | Staff+ |
+| Identifies trade-offs and can make decisions	                    | Technical leadership                    | Senior |
+| Considers security and privacy concerns		                    | Technical leadership                    | Senior |
+| Utilizes tools and technologies to solve business problems        | Technical leadership                    | Senior |
+| Considers deployment and maintenance aspects                      | Technical leadership                    | Senior |
+| Designs solutions with the customer in mind                       | Technical leadership                    | Staff+ |
+| Considers impact of decisions on engineering team                 | Technical leadership                    | Staff+ |
+| Ability to identify and prioritize technical debt	                | Technical leadership	                  | Staff+ |
+| Can lead design discussions and solicit feedback	                | Technical leadership	                  | Staff+ |
+
 
 # Final improvments and interviewer guide
 

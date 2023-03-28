@@ -27,10 +27,10 @@ and timely delivery of engineering projects. Moreover, they should attentively i
 experience while simultaneously enhancing productivity.
 
 Some of the examples of getting stuff done:
-* Help the team with project management and prioritization.
+* Help the team with their project management and prioritization.
 * Identify hidden risks and dependencies, which could disturb project delivery.
 * Advocate with leadership and find the necessary resource to finish a project.
-* Find a way to solve a particularly difficult problem.
+* Find a way to overcome complex challenges.
 
 ## Be a role model and mentor others
 ![](./arrows.png)
@@ -45,7 +45,7 @@ multiply the outcome.
 
 Staff engineers also get an opportunity (and obligation) to 
 [mentor](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) other people. We consider it a great privilege, to be 
-able to pass your experiences and your knowledge to other people. Helping people grow and succeed is essential. Not only are you 
+able to pass your experiences and knowledge to other people. Helping people grow and succeed is essential. Not only are you 
 actively using your time for others, but also you're increasing the area of impact. In addition to guiding and supporting their mentees, mentors
 can also enhance their own skills and knowledge. When tasked with explaining and teaching complex concepts to others, mentors are compelled to
 develop a comprehensive understanding of the subject matter, thereby expanding their own expertise. Furthermore, mentorship provides a valuable
@@ -76,7 +76,7 @@ There are several things staff engineers should do to improve communication in t
 ![](./calm.jpg)
 
 There are going to be some stressful situations at work. It can be either a tight deadline or an application incident. Staff engineers should
-show their experience and stay calm during the crisis. They should take a lead, communicate clearly and help with prioritization. Ultimately, their role is to facilitate the success of their team members and optimize their collective performance.
+show their experience and stay calm during the crisis. They should take the lead, communicate clearly and help with prioritization. Ultimately, their role is to facilitate the success of their team members and optimize their collective performance.
 
 Proactively preparing for potential failure scenarios is another effective strategy for bringing calmness to the organization. Staff engineers 
 can begin by conducting a thorough assessment of possible risks even before the project's commencement. During the ideation and implementation 
@@ -85,7 +85,7 @@ By anticipating and preventing crises before they occur, staff engineers can min
 
 So what to do to bring calmness to the team?
 * Perform a comprehensive risk assessment, conduct pre-mortems, and anticipate potential failure scenarios before they arise.
-* In critical situations take a lead and help the team solve the problem.
+* In critical situations take the lead and help the team solve the problem.
 * And again, overcommunicate and bring clarity.
 
 ## Build trust and relationships

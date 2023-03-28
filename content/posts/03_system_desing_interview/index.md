@@ -1,6 +1,6 @@
 ---
 title: "How do you conduct and evaluate a system design interview?"
-date: 2023-02-26
+date: 2023-03-28
 tags: [
     "interview",
 ]

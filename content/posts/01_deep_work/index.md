@@ -79,10 +79,9 @@ The following principles can help you get started and establish your deep workin
 
 # Our experiences with deep work
 
-We designed our own deep work routines with the principles mentioned above. They do differ a bit from each other but are suitable exactly 
-for our own needs.
+You don't need to apply the principles mentioned above blindly. It's best to adapt and adjust the ideas to suit your needs.
 
-### Jakub's routine
+### My personal routine
 ![Example calendar from Jakub](./calendar_jakub.png)
 
 - My peak performance and concentration are in the mornings between 5 am and 12 pm. That’s when I schedule my deep work sessions.
@@ -92,22 +91,6 @@ Between sessions, I try to relax by doing a little stretching or playing with a 
 work, I turn on slack, email, etc.
 - I plan a day (or a couple of days) of work & life ahead of time. I need to know what will be my deep work focus before I start it. I 
 simply use Google Calendar for it.
-
-### Kamil's routine
-![Example calendar from Kamil](./calendar_kamil.png)
-
-My goal was easily describable - `I wanted to limit the context switching and reserve time for the deep focus`. As a side effect, I expected 
-to limit the `meeting gaps time`. 
-
-> How could I still attend sync calls with the highest impact, while still being able to focus on individual contribution?
-
-I was in quite good position, as most of my meetings were 1:1s
-**What I did:**
-- Dropped from the meetings on which my attendance had little impact
-- Minimised time in big meetings 3+ guests in favor of 1:1, as the conversation pattern is more natural
-- Stacked the meetings into bigger slots, to avoid gaps
-- Picked a dedicated day (Friday) for async communication only, for the most demanding tasks
-- Whenever I’ve got a demanding task that fits nicely into the ~6 hours of work, I plan it upfront for Friday.
 
 # Summary
 

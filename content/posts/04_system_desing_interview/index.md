@@ -1,6 +1,6 @@
 ---
 title: "How do you create a system design interview task?"
-date: 2023-03-12
+date: 2023-05-30
 tags: [
     "interview",
 ]
@@ -19,7 +19,7 @@ It's important to remember that interviews are a two-way street. As an interview
 
 The first step in creating an effective system design interview task is to define the skills you want to evaluate and the expectations for candidates at different levels of seniority. Creating one interview task that can be used to evaluate both junior and senior+ candidates saves time in preparation and onboarding fellow interviewers. Additionally, it ensures that **all candidates are evaluated using the same criteria**, making the hiring process consistent. Based on the candidate's experience, you can provide more or less guidance during the interview, similar to how you would on the job. This approach provides a **realistic evaluation of the candidate's abilities** and helps assess their potential fit for the team.
 
-As a recap, in the [previous article]({{< ref "03_system_design_interview" >}}), we discussed several core competencies necessary for a system design interview:
+As a recap, in the [previous article]({{< ref "/posts/03_system_desing_interview/index.md" >}}), we discussed several core competencies necessary for a system design interview:
 * *Problem understanding and communication*
 * *Problem-solving*
 * *Distributed systems knowledge*

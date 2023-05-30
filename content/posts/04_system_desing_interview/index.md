@@ -4,7 +4,6 @@ date: 2023-05-30
 tags: [
     "interview",
 ]
-draft: true,
 ---
 
 In the previous article, we discussed the critical components of conducting an effective system design interview, emphasizing the importance of defining high-level goals and competencies to evaluate. We provided a base skeleton that could be used to design detailed interview questions.

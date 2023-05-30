@@ -11,10 +11,3 @@
     icon = "github"
     title = "GitHub"
     weight = 3
-
-[[socials]]
-    id = "twitter"
-    url = "https://twitter.com/Crossy147" # TODO: Replace with the custom domain once bought
-    icon = "twitter"
-    title = "Twitter"
-    weight = 4

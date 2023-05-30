@@ -108,7 +108,7 @@ uglyURLs = false
     # Personal website, default: baseURL
     website = "https://www.staffengineer.fyi/"
     # Twitter
-    twitter = "Crossy147"
+    # twitter = ""
 
 # Related content
 [related]

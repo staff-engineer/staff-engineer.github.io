@@ -261,7 +261,7 @@ uglyURLs = false
     displayHeaderInHome = true
     # Note: invalid for header layout flex
 
-    headerBackground = "linear-gradient(90deg, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%)"
+    headerBackground = "#f0f1f4"
     # Note: https://developer.mozilla.org/en-US/docs/Web/CSS/background
 
     headerLayout = "flex"
@@ -280,7 +280,7 @@ uglyURLs = false
     # Brand Bar (inside header)
 
     # Use SVG?
-    siteBrandSVG = false
+    siteBrandSVG = true
     # If true, put your SVG in the `SVG.toml`
     # file and configure the following options.
     # Unit: px
@@ -350,7 +350,7 @@ uglyURLs = false
     ######################################
     # Site Info
 
-    siteLogo = "/icons/apple-touch-icon.png"
+    siteLogo = "/icons/android-chrome-384x384.png"
     # Note: used for JSON-LD, Open Graph
 
     siteDescription = "Reflections on software engineering careers"

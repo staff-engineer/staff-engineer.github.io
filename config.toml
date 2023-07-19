@@ -1,8 +1,8 @@
 ##########################################
 # Site Settings
 
-baseURL = "httpd://www.staffengineer.fyi/"
-title = "Staff Engineer Blog"
+baseURL = "https://www.staffengineer.fyi/"
+title = "Staff Engineer | Insights on Software Engineering, Tech Leadership, and Career Development"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -353,7 +353,7 @@ uglyURLs = false
     siteLogo = "/icons/android-chrome-384x384.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "Reflections on software engineering careers"
+    siteDescription = "Staff Engineer is a trusted resource for software engineers and tech leaders seeking to level up their skills and advance their careers. Explore the principles of deep work, tech leadership, and software engineering craft. Master the art of system design interviews. Unlock your full potential and thrive in the dynamic world of software engineering with Staff Engineer."
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
@@ -361,7 +361,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "todo"
+    siteTwitter = ""
     # Note: used for Twitter Cards
 
 
